@@ -10,7 +10,7 @@ In most cases, this would not happen. Hence, this Geyser extension allows you to
 to transfer players to upon Geyser receives a Java transfer packet.
 
 
-[^1]: Technically it could work if Geyser is also running on the same Java port, but that's usually not the case.
+[^1]: Technically it could work if Geyser is also running on the same Java port(by Cloning Remote port On), but that's usually not the case.
 
 # Configuration
 There are two main configuration options:
